@@ -1,0 +1,41 @@
+_repo: Critical-Examination-of-the-Life-of-St.-Paul_38102
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Boulanger, Nicolas Antoine
+    alias: Boullanger, Nicolas-Antoine
+    gutenberg_agent_id: '43088'
+    url: http://www.gutenberg.org/2009/agents/43088
+  translator:
+    agent_name: Holbach, Paul Henri Thiry, baron d'
+    alias: D'Holbach, Baron
+    birthdate: 1723
+    deathdate: 1789
+    gutenberg_agent_id: '2420'
+    url: http://www.gutenberg.org/2009/agents/2420
+    wikipedia: http://en.wikipedia.org/wiki/Baron_d'Holbach
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Annet, Peter
+    birthdate: 1693
+    deathdate: 1769
+    gutenberg_agent_id: '39243'
+    url: http://www.gutenberg.org/2009/agents/39243
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Annet
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Paul, the Apostle, Saint'
+title: Critical Examination of the Life of St. Paul
+url: http://www.gutenberg.org/ebooks/38102
