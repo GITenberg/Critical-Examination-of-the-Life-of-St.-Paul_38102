@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39243
     wikipedia: http://en.wikipedia.org/wiki/Peter_Annet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38102#Critical-Examination-of-the-Life-of-St.-Paul
 gutenberg_issued: '2011-11-22'
 gutenberg_type: Text
 identifiers:
